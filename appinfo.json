@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "drew.gulino@gmail.com",
+    "enableMultiJS": true,
+    "longName": "T3A",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "T3A",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "7871bfcc-0937-4b82-a43d-5279fe02c97d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
